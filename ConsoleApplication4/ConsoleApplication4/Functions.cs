@@ -10,7 +10,7 @@ namespace ConsoleApplication4
 {
     class Functions
     {
-        
+        //test
         public static int ByteToMegabyte(double bytes)
         {
             int result = 0;

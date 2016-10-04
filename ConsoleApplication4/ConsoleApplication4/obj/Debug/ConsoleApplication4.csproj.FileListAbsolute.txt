@@ -22,3 +22,6 @@ C:\Users\grw\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleAp
 C:\Users\grw\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
 C:\Users\grw\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
 C:\Users\grw\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\add\Source\Repos\RemoteTaskManagerServer\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\add\Source\Repos\RemoteTaskManagerServer\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\add\Source\Repos\RemoteTaskManagerServer\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
