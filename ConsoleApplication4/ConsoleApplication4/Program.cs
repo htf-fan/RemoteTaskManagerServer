@@ -24,7 +24,6 @@ namespace ConsoleApplication4
         private static BackgroundWorker bgwCPUDraw;
         private static BackgroundWorker bgwUDPSender;
 
-
         public static void Main(string[] args)
         {
             LoadServerConfiguration();
